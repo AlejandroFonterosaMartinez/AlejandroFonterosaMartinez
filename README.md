@@ -29,8 +29,7 @@ Estoy familiarizado con una variedad de lenguajes de programación, marcos de tr
   - Node.js 🚀
   - Express.js 🛤️
   - PHP 🐘
-  - PHP Nativo 🐘
-  
+  -   
 - Bases de Datos: 
   - MySQL 🗄️
   
