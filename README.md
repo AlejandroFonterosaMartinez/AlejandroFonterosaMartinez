@@ -24,14 +24,19 @@ Estoy familiarizado con una variedad de lenguajes de programación, marcos de tr
   - CSS 🎨
   - JavaScript 💻
   - Vue.js 🖌️
+  - React.js 🖌️
   
 - Backend: 
   - Node.js 🚀
   - Express.js 🛤️
   - PHP 🐘
+  - Python 👾
    
 - Bases de Datos: 
   - MySQL 🗄️
+  - MongoDB 🟢
+  - FireBase/Firestore 🔥
+  - SQLite 📄
   
 - Herramientas de Control de Versiones: 
   - Git 📜
